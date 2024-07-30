@@ -28,5 +28,5 @@ Datasets: 1. dim_date.csv, 2. dim_hotels.csv, 3. dim_rooms.csv, 4. fact_aggregat
    - Print revenue realized per city
    - Print month by month revenue
      - _Exercise-1. Print revenue realized per hotel type_
-     - _Exercise-2 Print average rating per city_
-     - _Exercise-3 Print a pie chart of revenue realized per booking platform_
+     - _Exercise-2. Print average rating per city_
+     - _Exercise-3. Print a pie chart of revenue realized per booking platform_
